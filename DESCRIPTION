@@ -1,7 +1,7 @@
 Package: yeastNagalakshmi
 Type: Package
 Title: Yeast genome RNA sequencing data based on Nagalakshmi et. al. 
-Version: 0.99.7
+Version: 0.99.8
 Author: Martin Morgan <mtmorgan@fhcrc.org>
 Maintainer: Bioconductor Package Maintainer <maintainer@bioconductor.org>
 Description: The yeast genome data was retrieved from the sequence read
